@@ -1,0 +1,1 @@
+As the variiable pi is declared as static in main.c, thus it is not visible or accessible by the other file math.c, it is because static at the global scope limits accessibility to that file only.
